@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Pastas extras do seu projeto
+archive/
+.ipynb_checkpoints/
+.vscode/
